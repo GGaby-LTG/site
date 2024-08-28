@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+    <link rel="stylesheet" href="style.css">
+    <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet'>
+    <style>
+        body {
+            font-family: 'Roboto';
+            font-size: 16px;
+
+        }
+    </style>
+</head>
+<body>
+    <div class="About">ABOUT</div>
+    <div class="history">
+        <h2 class="ourhistory">Our history</h2>
+        <h1 class="year">This is an important year</h1>
+        <div class="What_happened_then">That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.</div>
+        <h1 class="year">This is an important year</h1>
+        <div class="What_happened_then">That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.That year something happened, what IDK, why IDK, what did it mean IDK. But if you know you can tell me it seems interesting.</div>
+
+    </div>
+    <div class="Product">
+        <img src="placeholder.png" alt="">
+        
+        <div class="Product_specs">
+            <div class="pspecs">This product is great it can do anything i write here even multiple related points like one two or three</div>
+            <div class="pspecs">This product is great it can do anything i write here even multiple related points like one two or three</div>
+            <div class="pspecs">This product is great it can do anything i write here even multiple related points like one two or three</div>
+            <div class="pspecs">This product is great it can do anything i write here even multiple related points like one two or three</div>
+        </div>
+    </div>
+    <div class="FAQ">
+        <div class="QA">
+            <h2>Question</h2>
+            <div>This is supposed to be an answer, anything you can say can fit it here. This is the first line of the Q&A</div>
+        </div>
+        <div class="QA">
+            <h2>Question</h2>
+            <div>This is supposed to be an answer, anything you can say can fit it here. This is the first line of the Q&A</div>
+        </div>
+        <div class="QA">
+            <h2>Question</h2>
+            <div>This is supposed to be an answer, anything you can say can fit it here. This is the first line of the Q&A</div>
+        </div>
+        <div class="QA">
+            <h2>Question</h2>
+            <div>This is supposed to be an answer, anything you can say can fit it here. This is the first line of the Q&A</div>
+        </div>
+    
+    </div>
+    <div  class="not_flagship">
+        <div class="other_products">
+            <div class="second_product_name">One of our other products</div>
+            <div class="second_product_description">we don't only have our flagship look at all of these beauties</div>
+        </div>
+        <div class="other_products">
+            <div class="second_product_name">One of our other products</div>
+            <div class="second_product_description">we don't only have our flagship look at all of these beauties</div>
+        </div>
+        <div class="other_products">
+            <div class="second_product_name">One of our other products</div>
+            <div class="second_product_description">we don't only have our flagship look at all of these beauties</div>
+        </div>
+        <div class="other_products">
+            <div class="second_product_name">One of our other products</div>
+            <div class="second_product_description">we don't only have our flagship look at all of these beauties</div>
+        </div>
+        <div class="other_products">
+            <div class="second_product_name">One of our other products</div>
+            <div class="second_product_description">we don't only have our flagship look at all of these beauties</div>
+        </div>
+        
+    </div>
+    <div class="About">
+        <a class="button" , href="<head>.html">Click for more</a>
+    </div>
+</body>
